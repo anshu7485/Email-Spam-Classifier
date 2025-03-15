@@ -13,6 +13,8 @@ The **Email Spam Classifier** is a machine learning-based web application design
 
 ---
 
+https://github.com/anshu7485/Email-Spam-Classifier/blob/main/Screenshot%202025-03-13%20165301.png
+
 ## 🛠️ Tech Stack
 - **Python** (pandas, numpy, scikit-learn, flask)
 - **Machine Learning** (Logistic Regression, TF-IDF Vectorizer)
