@@ -11,9 +11,14 @@ The **Email Spam Classifier** is a machine learning-based web application design
 - Build a **Flask web app** to classify user-input emails.
 - Deploy the model for real-world usage.
 
+
 ---
 
-https://github.com/anshu7485/Email-Spam-Classifier/blob/main/Screenshot%202025-03-13%20165301.png
+## 📷 Project Screenshot  
+![Project UI](https://github.com/anshu7485/Email-Spam-Classifier/blob/main/Screenshot%202025-03-13%20165301.png)
+
+---
+
 
 ## 🛠️ Tech Stack
 - **Python** (pandas, numpy, scikit-learn, flask)
